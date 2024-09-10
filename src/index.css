@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-3d {
+    text-shadow: 2px 2px 4px rgba(0, 0, 255, 0.7); /* Отрегулируйте значения по мере необходимости */
+}
+
+
+.seat{
+    display: grid;
+  gap: 0;
+    
+    
+    margin:0px;
+    padding:0px;
+}
